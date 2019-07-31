@@ -11,7 +11,7 @@
 <link rel="stylesheet" href="css/bootstrap.min.css">
 <link rel="stylesheet" href="css/custom.css">
 
-<title>JSPソソ掲示板 1</title>
+<title>JSPソソ掲示板 </title>
 </head>
 <body>
 	<%
